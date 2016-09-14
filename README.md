@@ -8,7 +8,8 @@ Detailed debugging view is not enabled, so the last number should be a 0.
 
 Random-number file -  my program has the file path hardcoded as such:
 
- 	Looks for the file in the current working directory, so that if you are running my program in /Users/Grader/Labs, the random-number file path is hardcoded as:
+ 	Looks for the file in the current working directory, so that if you are running my program
+ 	in /Users/Grader/Labs,the random-number file path is hardcoded as:
 
 	/Users/Grader/Labs/random-numbers.txt
 
